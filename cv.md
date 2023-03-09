@@ -25,4 +25,4 @@ I have been learning JavaScript for the last 2 years. I got knowledge of React J
 
 ### _Education_
 * Donetsk National University\
-_masters of nanophysics___2006-2011__years
+_masters of nanophysics_ __2006-2011__ years
