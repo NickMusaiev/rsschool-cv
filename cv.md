@@ -6,6 +6,7 @@
 
 ### _Contacts_
 * __email:__ _it.musaiev@gmail.com_  
+* __discord:__ _NickMusaiev#0921_
 * __mob:__ _+38 073 326 10 71_
 
 ### _Profile_
@@ -28,6 +29,14 @@ I have been learning JavaScript for the last 2 years. I got knowledge of React J
 * [Background Video](https://github.com/NickMusaiev/background_video)
 * [ToDo List](https://github.com/NickMusaiev/ToDoList)
 * [Currency converter](https://github.com/NickMusaiev/CurrencyConverter)
+
+### _Code sample_
+```
+function paperwork(n, m) {
+ if(n<0||m<0)return 0
+  return n*m
+}
+```
 
 ### _Education_
 * Donetsk National University\
