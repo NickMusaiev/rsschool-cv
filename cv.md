@@ -1,5 +1,7 @@
 # Nick Musaiev
 
+![my photo](./image/w1.jpg)
+
 ## Junior Frontend Developer
 
 ### _Contacts_
