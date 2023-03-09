@@ -5,3 +5,24 @@
 ### _Profile_
 
 I have been learning JavaScript for the last 2 years. I got knowledge of React JS, Redux, experience in developing responsive web applications, working with DOM three and LocalStorage. I am also good at cross-browser compatibility issues, practical skills with APIs, bootstrap. I have experience with nettworks and nettwork equipment.
+
+### _Skills_
+* HTML
+* CSS 
+* JsvsScript 
+* OOP JS
+* Gulp
+* APIs
+* SASS and SCSS
+* English: Pre-intermediate
+
+### _Projects_
+* [API Weather Map](https://github.com/NickMusaiev/weather_map)
+* [Screen keyboard](https://github.com/NickMusaiev/keyboard)
+* [Background Video](https://github.com/NickMusaiev/background_video)
+* [ToDo List](https://github.com/NickMusaiev/ToDoList)
+* [Currency converter](https://github.com/NickMusaiev/CurrencyConverter)
+
+### _Education_
+* Donetsk National University\
+_masters of nanophysics___2006-2011__years
