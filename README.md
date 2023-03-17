@@ -1,1 +1,1 @@
-https://nickmusaiev.github.io/rsschool-cv/cv
+https://nickmusaiev.github.io/rsschool-cv/
